@@ -1,0 +1,95 @@
+/* body section starts */
+body {
+    background-color: #FFF8F3;
+}
+
+/* join us button section starts  */
+.button {
+    text-decoration: none;
+    text-align: center;
+    padding: 11px 32px;
+    border: solid 1px #004F72;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    font: 24px Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #0d0c0b;
+    background-color: #dade0b;
+    background-image: -moz-linear-gradient(top, #dade0b 0%, #e6c612 100%);
+    background-image: -webkit-linear-gradient(top, #dade0b 0%, #e6c612 100%);
+    background-image: -o-linear-gradient(top, #dade0b 0%, #e6c612 100%);
+    background-image: -ms-linear-gradient(top, #dade0b 0%, #e6c612 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e6c612', endColorstr='#e6c612', GradientType=0);
+    background-image: linear-gradient(top, #dade0b 0%, #e6c612 100%);
+    -webkit-box-shadow: 0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+    -moz-box-shadow: 0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+    box-shadow: 0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+
+}
+
+.button:hover {
+    padding: 11px 32px;
+    border: solid 1px #004F72;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    font: 24px Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #0d0c0a;
+    background-color: #cccc4f;
+    background-image: -moz-linear-gradient(top, #cccc4f 0%, #dce309 100%);
+    background-image: -webkit-linear-gradient(top, #cccc4f 0%, #dce309 100%);
+    background-image: -o-linear-gradient(top, #cccc4f 0%, #dce309 100%);
+    background-image: -ms-linear-gradient(top, #cccc4f 0%, #dce309 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dce309', endColorstr='#dce309', GradientType=0);
+    background-image: linear-gradient(top, #cccc4f 0%, #dce309 100%);
+    -webkit-box-shadow: 0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+    -moz-box-shadow: 0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+    box-shadow: 0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+
+}
+
+/* footer section starts */
+footer {
+    margin-top: 20px;
+
+
+}
+
+.footer1 {
+    background-color: #E6E6E6;
+    height: 180px;
+}
+
+.footer2 {
+    background-color: #010101;
+    height: 60px;
+    padding-top: 11px;
+}
+
+.footer2 h5 {
+    color: white;
+}
+
+.footer1 h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footerprecessor {
+    margin-top: 20px;
+}
+
+/* h1 */
+#center h1 {
+    margin-top: 20px;
+}
+
+/* pricing section starts */
+.pricing {
+    margin: 10px 20px;
+    background-color: #f1f3f2;
+
+
+}
